@@ -1,0 +1,4 @@
+#Wed Nov 17 14:04:50 CET 2021
+base.0=C\:\\Users\\doria\\OneDrive\\Documents\\android flutter\\projet\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

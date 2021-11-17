@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+io/chatos/epsi_chat/BuildConfig.java
+ io.chatos.epsi_chat.BuildConfig
+io/chatos/epsi_chat/MainActivity.java
+ io.chatos.epsi_chat.MainActivity
